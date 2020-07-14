@@ -1,4 +1,4 @@
-# landing-page
+# landing-page Resort 🌴
 Landing-page simples criada utilizando apenas css e html5
 
 # Projeto-de-estudo
