@@ -9,3 +9,8 @@ Landing-page simples criada utilizando apenas css e html5
 
 
 ![image](https://user-images.githubusercontent.com/60331806/84336256-42e04380-ab6d-11ea-89a9-f089c9095b66.png)
+
+
+-------------------------------------------------------------------------------------------------------
+
+Confira uma demo desse projeto em http://landingpageresort.surge.sh
